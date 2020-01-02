@@ -12,7 +12,7 @@ function App() {
          <div className="row">
           <TodoInput />
           <TodoList />
-
+          <div>Message</div>
          </div>
      </div>
 
